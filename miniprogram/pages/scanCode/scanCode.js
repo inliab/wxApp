@@ -81,7 +81,7 @@ Page({
           },
           success: res => 
           {
-            console.log("ok5");
+            console.log("ok6");
           },
           fail: err => 
           {
