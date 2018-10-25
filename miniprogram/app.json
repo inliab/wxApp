@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/scanCode/scanCode"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": 
+    [
+      {
+      "pagePath": "pages/index/index",
+      "text": "我的藏书"
+      },
+
+      {
+      "pagePath": "pages/scanCode/scanCode",
+      "text": "扫描加书"
+      }
+    ]
+  }
+}
